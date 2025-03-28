@@ -21,7 +21,7 @@ This workshop explores the intersection of data visualization and gameplay using
 
 ### **Game resources:**
 
-1. [Dafont.com](https://www.dafont.com/hipchick.font) (hipchick font)
+1. [Dafont.com](https://www.dafont.com/hipchick.font) (Hipchick font)
 2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
 3. [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Player + environment)
 4. [Figma](http://figma.com) (Great for designing and modifying assets)
