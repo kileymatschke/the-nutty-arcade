@@ -21,11 +21,11 @@ This workshop explores the intersection of data visualization and gameplay using
 
 ### **Game resources:**
 
-1. [Dafont.com](https://www.dafont.com/hipchick.font) (Hipchick font)
+1. [Hipchick font](https://www.dafont.com/hipchick.font) (For on-screen text)
 2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
 3. [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Player + environment)
 4. [Figma](http://figma.com) (Great for designing and modifying assets)
-5. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r)
+5. [Cozy Animal Crossing Music](https://youtu.be/8kBlKM71pjc?si=20Xfh4WgZb2Sj34r) (Soundtrack)
 6. Labeled sprite sheets and coordinate plane:
 <img width="155" height="215" alt="Screenshot 2025-02-26 at 8 09 52 PM" src="https://github.com/user-attachments/assets/cf662058-8055-48db-a4b8-2bce5f9d00f6" />
 <img width="215" height="215" alt="Character Sprite Sheet" src="https://github.com/user-attachments/assets/861bc49f-eee1-4f24-992e-6ac2d335d3ed" />
