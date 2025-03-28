@@ -6,6 +6,8 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 Email: kmatschk@barnard.edu
 
+This workshop explores the intersection of data visualization and gameplay using real NYC squirrel census data. Participants will learn how to use the game engine LÖVE to work creatively with data through the lens of game design principles. This workshop is open to people from all backgrounds and coding levels! Beginner friendly.
+
 
 
 ### **Dataset:** [Squirrel Census Data](https://www.dropbox.com/scl/fi/is2yaa5gz1of32xo1xwvd/squirrel-data.csv?rlkey=sao5wj2tqd98nzs6rsi5k7ot6&e=2&dl=0)
