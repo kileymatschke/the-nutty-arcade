@@ -1,4 +1,6 @@
-# The Nutty Arcade: Gamifying Squirrel Census Data 🐿️
+# Spring-25-The-Nutty-Arcade-Gamifying-Squirrel-Census-Data
+
+The Nutty Arcade: Gamifying Squirrel Census Data 🐿️
 
 NYC Open Data Week 2025 Workshop
 
@@ -6,7 +8,7 @@ Presented by **Kiley Matschke** (Post-Baccalaureate Fellow, Barnard College Vage
 
 Email: kmatschk@barnard.edu
 
-This workshop explores the intersection of data visualization and gameplay using real NYC squirrel census data. Participants will learn how to use the game engine LÖVE to work creatively with data through the lens of game design principles. This workshop is open to people from all backgrounds and coding levels! Beginner friendly.
+### **Workshop slides can be found [here](https://docs.google.com/presentation/d/1Xq5rhWH97H1BmA72rxYvdYCZYtlLIsuKJq6jqbLGGQM/edit?usp=sharing) or as a PDF in this repository**
 
 
 
@@ -21,7 +23,7 @@ This workshop explores the intersection of data visualization and gameplay using
 
 ### **Game resources:**
 
-1. [Hipchick font](https://www.dafont.com/hipchick.font) (For on-screen text)
+1. [Dafont](https://www.dafont.com/) (Fonts)
 2. [SunnyLand Woods Asset Pack](https://ansimuz.itch.io/sunnyland-woods) (Cinnamon squirrels)
 3. [Sprout Lands Asset Pack](https://cupnooble.itch.io/sprout-lands-asset-pack) (Player + environment)
 4. [Figma](http://figma.com) (Great for designing and modifying assets)
@@ -436,3 +438,7 @@ This workshop explores the intersection of data visualization and gameplay using
 
 <img width="1440" alt="Screenshot 2025-03-27 at 1 54 46 PM" src="https://github.com/user-attachments/assets/e6cbdff2-3c14-4cbb-9031-6c584e3ca531" />
 
+
+## **Acknowledgements**
+
+Thank you to the NYC Open Data Team at the Office of Technology and Innovation (OTI), BetaNYC, and Data Through Design for organizing and producing this incredible annual festival. Thank you to Barnard College's Vagelos Computational Science Center (CSC) for the platform to host this event as part of our regular workshop series. And a big thank you to HarvardX's CS50G: Introduction to Game Development course and faculty for providing me the tools to learn how to build 2D video games, allowing me to share my work with others. 
